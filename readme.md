@@ -54,22 +54,7 @@ To run the code, type `python Drowsiness_Detection.py`
 python Drowsiness_Detection.py
 ```
 
-###### Made with ❤️ and 🦙 by Akshay Bahadur
 
-## 📌 Cite Us
 
-To cite this guide, use the below format:
-```
-@article{Drowsiness_Detection,
-author = {Bahadur, Akshay},
-journal = {https://github.com/akshaybahadur21/Drowsiness_Detection},
-month = {01},
-title = {{Drowsiness_Detection}},
-year = {2018}
-}
-```
 
-## References 🔱
- 
- -   Adrian Rosebrock, [PyImageSearch Blog](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
 
