@@ -1,6 +1,5 @@
 # Drowsiness Detection OpenCV 😴 🚫 🚗
 
-[![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)] 
 
 This code can detect your eyes and alert when the user is drowsy.
 
